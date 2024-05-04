@@ -1,3 +1,5 @@
+![logo](https://github.com/Razane3/Razane3/blob/main/github-header-image.png)
+
 ### Hi there 👋
 
 - 📈  My next goal is to pursue a career in software engineering.
