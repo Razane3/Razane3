@@ -27,3 +27,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/razane-khemmar-b49abb227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/razane-khemmar-b49abb227" height="30" width="40" /></a>
 <a href="https://discord.gg/Razane#3333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Razane#3333" height="30" width="40" /></a>
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razane3&show_icons=true&theme=radical)
