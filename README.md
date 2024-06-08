@@ -1,5 +1,6 @@
 ![logo](https://github.com/Razane3/Razane3/blob/main/github-header-image.png)
-![logo](![logo](https://github.com/Razane3/Razane3/blob/main/github-header-image.png)
+![logo](https://www.codewars.com/users/Razane3/badges/large)
+
 
 ### Hi there 👋
 
